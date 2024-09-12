@@ -26,5 +26,3 @@ This repository provides references used in the review paper titled **"A Review 
 | 18   | R. J. Patton, P. M. Frank, R. N. Clark            | Issues of Fault Diagnosis for Dynamic Systems                          | Springer Science & Business Media                              | -            | 2013  | [Link]() |
 | 19   | R. Isermann                                        | Fault-Diagnosis Systems: An Introduction from Fault Detection to Fault Tolerance | Springer Science & Business Media                              | -            | 2006  | [Link]() |
 | 20   | S. X. Ding                                        | Model-Based Fault Diagnosis Techniques: Design Schemes, Algorithms, and Tools | Springer Science & Business Media                              | -            | 2008  | [Link]() |
-
-You can extend this table with additional references and links as needed.
