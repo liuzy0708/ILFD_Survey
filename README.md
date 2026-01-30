@@ -103,17 +103,6 @@ PRs are welcome.
    - `Paper | Venue | Year`
 3. Keep the venue naming consistent (prefer IEEE-style abbreviations or the official venue name).
 
-### Formatting rules / 格式规范
-- **One paper = one entry** (avoid duplicates across categories).
-- Use the **final publication year** when available; if a paper is “Early Access”, use the year shown on the publisher page.
-- Keep titles in **Title Case** (or original capitalization if it is a stylized title).
-- Conference venues should include the full conference name or a standard acronym (e.g., `IEEE T-IM`, `MSSP`, `Neurocomputing`, `ICEMI`).
-
-### Quality checklist / 质检清单
-- [ ] Title / venue / year are correct.
-- [ ] Category is correct (online/offline × drift/novel).
-- [ ] No duplicate entry already exists in the list.
-
 
 ## Citation / 引用
 
